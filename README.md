@@ -1,2 +1,2 @@
-# githup.slimaniabdelhadi.io
+# equation.github.io
 Cacule cubeque equation
